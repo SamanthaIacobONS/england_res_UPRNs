@@ -1,6 +1,6 @@
-# Tracking changes in residential UPRNs in England between 2020 and 2024
+## Tracking changes in residential UPRNs in England between 2020 and 2024
 
-To use: open the [england_res_UPRNs file in Jupyter Notebooks](https://github.com/SamanthaIacobONS/england_res_UPRNs/blob/main/england_res_UPRNs_chart.ipynb)
+To use: download the repo and open the [england_res_UPRNs file in Jupyter Notebooks](https://github.com/SamanthaIacobONS/england_res_UPRNs/blob/main/england_res_UPRNs_chart.ipynb)
 
 The chart shows the percentage change each year for the 9 England regions and the overall average.
 
